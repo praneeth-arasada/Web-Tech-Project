@@ -15,6 +15,7 @@ So lets Start:
 Before doing Any of these steps ensure that you have node and mongoDB installed on your system and is working properly
 
 1)Backend: 
+
     i)make a new folder call it 'temp' in your system 
     ii)Then open a command prompt(cmd) in that folder
     iii)Then run the command 'npm init'
@@ -24,6 +25,7 @@ Before doing Any of these steps ensure that you have node and mongoDB installed 
 
 
 2)Frontend:
+
     i)Open a command prompt(cmd) in any directory in your system  
     ii)Run the command 'npx create-react-app temp2' (a folder called temp2 should get created)
     iii)Now download the client folder 
@@ -33,8 +35,9 @@ Before doing Any of these steps ensure that you have node and mongoDB installed 
 
 
 To Run The Code:
-1)Open a cmd for the game folder and run 'npm start'
-2)Open a cmd for the 'client/player' folder and run 'npm start'
+
+    1)Open a cmd for the game folder and run 'npm start'
+    2)Open a cmd for the 'client/player' folder and run 'npm start'
  
 This will start the game and open it in your default browser
-Now play and enjoy the game
+Now play and enjoy the game!
