@@ -1,0 +1,43 @@
+body{
+    background-image: url("../images/game.jpg");
+    background-size: cover;
+}
+.navstart{
+    margin-top: 200px;
+    margin-left: 40%;
+    width: 150px;
+    height: 50px;
+    background-color: #B37242;
+    color: white;
+    display: flex;
+    border: 2px solid black;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: larger;
+}
+.navstart:hover{
+    background-color: white;
+    color: black;
+}
+.navleader{
+    margin-top: 50px;
+    margin-left: 38%;
+    width: 200px;
+    height: 50px;
+    background-color: #B37242;
+    color: white;
+    display: flex;
+    border: 2px solid black;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.navleader:hover{
+    background-color: white;
+    color: black;
+}

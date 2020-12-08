@@ -1,0 +1,39 @@
+.navnewroom{
+    margin-top: 200px;
+    margin-left: 33%;
+    width: 300px;
+    height: 50px;
+    background-color: #B37242;
+    color: white;
+    display: flex;
+    border: 2px solid black;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: larger;
+}
+.navnewroom:hover{
+    background-color: white;
+    color: black;
+}
+.navjoinroom{
+    margin-top: 50px;
+    margin-left: 38%;
+    width: 200px;
+    height: 50px;
+    background-color: #B37242;
+    color: white;
+    display: flex;
+    border: 2px solid black;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.navjoinroom:hover{
+    background-color: white;
+    color: black;
+}

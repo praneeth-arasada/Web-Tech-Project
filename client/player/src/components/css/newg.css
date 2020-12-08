@@ -1,0 +1,41 @@
+label{
+    margin-top: 50px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    justify-items: center;
+    background-color: #B37242;
+}
+
+.formbutton{
+    padding-top: 10px;
+}
+
+.btncreate{
+    background-color: #B37242;
+    color: white;
+    border: 2px solid white;
+    font-weight: bold;
+    font-size: large;
+    width: 150px;
+    justify-items: center;
+    align-items: center;
+}
+
+.btncreate:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+
+.forminput{
+    color: black;
+    font-weight: bold;
+    display: flex;
+    width: 100%;
+    justify-items: center;
+    align-items: center;
+}
